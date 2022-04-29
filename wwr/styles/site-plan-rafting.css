@@ -9,7 +9,7 @@ Fonts are separated by a | */
   --primary-color: #0d5358   ;
   --secondary-color: #b52224 ;
   --accent1-color: #320a28;
-  --accent2-color: #F3DE20;
+  --accent2-color: #f3de20;
   
   /* change the values below to your chosen font(s) */
   --heading-font: "Reenie Beanie";
@@ -24,7 +24,7 @@ Fonts are separated by a | */
   --nav-link-color: white;
   --nav-background-color: #b52224;
   --nav-hover-link-color: #b52224;
-  --nav-hover-background-color: white;
+  --nav-hover-background-color: #f3de20;
 }
 
 
